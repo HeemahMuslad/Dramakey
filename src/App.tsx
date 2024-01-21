@@ -5,7 +5,7 @@ import  { useState } from "react";
 const App = () => {
   let text = "lorem ipsum dolor sit amet, adipiscing elit, ";
   let dataSet = [
-    { greet: "/images/1.png", description: text },
+    { greet: "images/1.png", description: text },
     { greet: "images/2.png", description: text },
     { greet: "images/1.png", description: text },
     { greet: "images/3.png", description: text },
