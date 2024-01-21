@@ -11,7 +11,7 @@ body {
 @media (max-width: 756px) {
     .hamburger {
       display: block;
-    }
+     }
     .hamburger.active .bar:nth-child(2) {
       opacity: 0;
     }
